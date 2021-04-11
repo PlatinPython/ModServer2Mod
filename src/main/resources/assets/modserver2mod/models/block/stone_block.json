@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modserver2mod:blocks/stone/stone_block"
+  }
+}

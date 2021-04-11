@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modserver2mod:blocks/reddish_sand/reddish_sandstone_stonebricks"
+  }
+}

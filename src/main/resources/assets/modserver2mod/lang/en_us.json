@@ -1,0 +1,56 @@
+{
+  "itemGroup.modserver2modTabRandom": "ModServer 2.0",
+  
+
+  "item.modserver2mod.music_disc_panem": "§bMusic Disc",
+  "item.modserver2mod.music_disc_panem.desc": "James Newton Howard - Horn of Plenty",
+
+
+  "block.modserver2mod.limestone": "Limestone",
+  "block.modserver2mod.limestone_bricks": "Limestone Bricks",
+  "block.modserver2mod.limestone_carved": "Carved Limestone",
+  "block.modserver2mod.limestone_cobblestone": "Cobbled Limestone",
+  "block.modserver2mod.limestone_creeper": "Creepered Limestone",
+  "block.modserver2mod.limestone_pillar": "Limestone Pillar",
+  "block.modserver2mod.limestone_sandstone": "Limesandstone",
+  "block.modserver2mod.limestone_square_tiles": "Tiled Limestone",
+  "block.modserver2mod.limestone_stonebricks": "Limestone Stonebricks",
+  "block.modserver2mod.limestone_stonebricks_round": "Round Limestone Stonebricks",
+  "block.modserver2mod.limestone_tiles": "Paved Limestone",
+
+  "block.modserver2mod.reddish_sand": "Reddish Sand",
+  "block.modserver2mod.reddish_sandstone": "Reddish Sandstone",
+  "block.modserver2mod.reddish_sandstone_bricks": "Reddish Sandstone Bricks",
+  "block.modserver2mod.reddish_sandstone_carved_pattern": "Carved Reddish Sandstone",
+  "block.modserver2mod.reddish_sandstone_carved": "Chiseled Reddish Sandstone",
+  "block.modserver2mod.reddish_sandstone_cobblestone": "Reddish Cobbled Sandstone",
+  "block.modserver2mod.reddish_sandstone_creeper": "Reddish Creepered Sandstone",
+  "block.modserver2mod.reddish_sandstone_smooth": "Smooth Reddish Sandstone",
+  "block.modserver2mod.reddish_sandstone_square_tiles": "Tiled Reddish Sandstone",
+  "block.modserver2mod.reddish_sandstone_stonebricks": "Reddish Sandstone Stonebricks",
+  "block.modserver2mod.reddish_sandstone_stonebricks_round": "Round Reddish Sandstone Stonebricks",
+  "block.modserver2mod.reddish_sandstone_tiles": "Paved Reddish Sandstone",
+
+  "block.modserver2mod.stone_block": "Stoneblock",
+  "block.modserver2mod.stone_brick": "Stoned Bricks",
+  "block.modserver2mod.stone_creeper": "Creepered Stone",
+  "block.modserver2mod.stone_pillar": "Stone Pillar",
+  "block.modserver2mod.stone_tiles": "Tiled Stone",
+  "block.modserver2mod.stonebrick_round": "Round Stonebricks",
+
+  "block.modserver2mod.stucco": "Stucco",
+  "block.modserver2mod.stucco_apple": "Apple Stucco",
+  "block.modserver2mod.stucco_bonbon": "Bonbon Stucco",
+  "block.modserver2mod.stucco_cherry": "Cherry Stucco",
+  "block.modserver2mod.stucco_citron": "Citron Stucco",
+  "block.modserver2mod.stucco_deep": "Deep Stucco",
+  "block.modserver2mod.stucco_lavender": "Lavender Stucco",
+  "block.modserver2mod.stucco_maroon": "Maroon Stucco",
+  "block.modserver2mod.stucco_mint": "Mint Stucco",
+  "block.modserver2mod.stucco_peach": "Peach Stucco",
+  "block.modserver2mod.stucco_petrol": "Petrol Stucco",
+
+  "block.modserver2mod.red_steel_girder": "Red Steel Girder",
+
+  "block.modserver2mod.taiga_bush": "Taiga Bush"
+}

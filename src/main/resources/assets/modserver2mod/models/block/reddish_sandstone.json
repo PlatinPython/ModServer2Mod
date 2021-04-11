@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "modserver2mod:blocks/reddish_sand/reddish_sandstone_bottom",
+    "top": "modserver2mod:blocks/reddish_sand/reddish_sandstone_top",
+    "side": "modserver2mod:blocks/reddish_sand/reddish_sandstone"
+  }
+}

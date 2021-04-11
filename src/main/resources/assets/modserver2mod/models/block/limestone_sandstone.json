@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "modserver2mod:blocks/limestone/limestone_sandstone_bottom",
+    "top": "modserver2mod:blocks/limestone/limestone",
+    "side": "modserver2mod:blocks/limestone/limestone_sandstone"
+  }
+}

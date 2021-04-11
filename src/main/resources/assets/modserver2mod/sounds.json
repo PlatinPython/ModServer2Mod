@@ -1,0 +1,10 @@
+{
+  "music_disc.panem": {
+    "sounds": [
+      {
+        "name": "modserver2mod:records/panem",
+        "stream": true
+      }
+    ]
+  }
+}
