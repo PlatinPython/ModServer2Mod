@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "modserver2mod:items/paintbucket",
-    "layer1": "modserver2mod:items/paintbucket_color"
-  }
-}
