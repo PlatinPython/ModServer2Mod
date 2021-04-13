@@ -3,7 +3,7 @@ loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft versio
 issueTrackerURL="https://github.com/PlatinPython/ModServer2Mod/issues" #optional
 [[mods]] #mandatory
 modId="modserver2mod" #mandatory
-version="1.0" #mandatory
+version="1.15.2-0.0.8.0" #mandatory
 displayName="ModServer 2.0 Mod" #mandatory
 updateJSONURL="http://example.com/" #optional
 displayURL="http://example.com/" #optional
